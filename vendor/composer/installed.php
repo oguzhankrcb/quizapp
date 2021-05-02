@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '8d400f2ef06c56de31346f71be5c59db6683ea46',
+    'reference' => 'ef28b522c996498e13c0e26bea1e7c91438e4a26',
     'name' => 'laravel/laravel',
   ),
   'versions' => 
@@ -213,6 +213,15 @@
       array (
       ),
       'reference' => '8c3d0a3f6af734494ad8f6fbbee0ba92422859f3',
+    ),
+    'herkod/laravel-tr' => 
+    array (
+      'pretty_version' => 'v1.0.0',
+      'version' => '1.0.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'c4fbddc0180968cc321e069e38e8f3a8e8498756',
     ),
     'illuminate/auth' => 
     array (
@@ -490,7 +499,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '8d400f2ef06c56de31346f71be5c59db6683ea46',
+      'reference' => 'ef28b522c996498e13c0e26bea1e7c91438e4a26',
     ),
     'laravel/sail' => 
     array (

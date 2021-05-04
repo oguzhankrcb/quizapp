@@ -27,6 +27,7 @@ return array(
     'App\\Http\\Middleware\\VerifyCsrfToken' => $baseDir . '/app/Http/Middleware/VerifyCsrfToken.php',
     'App\\Http\\Middleware\\isAdmin' => $baseDir . '/app/Http/Middleware/isAdmin.php',
     'App\\Http\\Requests\\QuizCreateRequest' => $baseDir . '/app/Http/Requests/QuizCreateRequest.php',
+    'App\\Http\\Requests\\QuizUpdateRequest' => $baseDir . '/app/Http/Requests/QuizUpdateRequest.php',
     'App\\Models\\Quiz' => $baseDir . '/app/Models/Quiz.php',
     'App\\Models\\User' => $baseDir . '/app/Models/User.php',
     'App\\Providers\\AppServiceProvider' => $baseDir . '/app/Providers/AppServiceProvider.php',

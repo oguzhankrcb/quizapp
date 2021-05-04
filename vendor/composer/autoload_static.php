@@ -590,6 +590,7 @@ class ComposerStaticInit1814c3a3c2c68356d859ed641c075c81
         'App\\Http\\Middleware\\VerifyCsrfToken' => __DIR__ . '/../..' . '/app/Http/Middleware/VerifyCsrfToken.php',
         'App\\Http\\Middleware\\isAdmin' => __DIR__ . '/../..' . '/app/Http/Middleware/isAdmin.php',
         'App\\Http\\Requests\\QuizCreateRequest' => __DIR__ . '/../..' . '/app/Http/Requests/QuizCreateRequest.php',
+        'App\\Http\\Requests\\QuizUpdateRequest' => __DIR__ . '/../..' . '/app/Http/Requests/QuizUpdateRequest.php',
         'App\\Models\\Quiz' => __DIR__ . '/../..' . '/app/Models/Quiz.php',
         'App\\Models\\User' => __DIR__ . '/../..' . '/app/Models/User.php',
         'App\\Providers\\AppServiceProvider' => __DIR__ . '/../..' . '/app/Providers/AppServiceProvider.php',

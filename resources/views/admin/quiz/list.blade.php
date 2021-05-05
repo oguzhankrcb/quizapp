@@ -29,8 +29,11 @@
                             <form method="POST" action="{{ route('quizzes.destroy', $q->id) }}">
                             @csrf
                             @method('DELETE')
+
+                            <a href="{{route('questions.index', $q->id)}}" class="btn btn-sm btn-warning"><i class="fa fa-question"></i></a>
                             <a href="{{route('quizzes.edit', $q->id)}}" class="btn btn-sm btn-primary"><i class="fa fa-pen"></i></a>
                             <button type="submit" class="btn btn-sm btn-danger"><i class="fa fa-times"></i></button>
+
                             </form>
 
                         </td>
